@@ -2,7 +2,7 @@
 
 ### I've been...
 
-- A Software Engineer at Visa, building mobile software products.
+- A Software Engineer at Visa, building mobile payment products.
 
 - A Co-Founder and Mobile Developer at Heat Studio LLC, creating apps and software solutions.
 
