@@ -4,7 +4,7 @@
 
 - A Software Engineer at Visa, building mobile payment products.
 
-- A Co-Founder and Mobile Developer at Heat Studio LLC, having launched 17+ apps on the App Store.
+- A Co-Founder and Mobile Developer at [Heat Studio](https://heatstudio.net/), having launched 17+ apps on the App Store.
 
 - A Mobile Developer at ZotBins, working on sustainability-focused technology.
 
